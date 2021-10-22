@@ -7,8 +7,8 @@
 
 ## Built with
 - Python
-- Pandas
-- Matplotlib
+    - Pandas
+    - Matplotlib
 
 ## Technical Techniques
 - Cleaning, sorting, filtering
@@ -19,6 +19,6 @@
 - Synthesizing results for tentative conclusions
 - Acknowledging potential pitfalls with results and techniques
 
-##Screenshots
-[!Screenshots](image1.png)
-[!Screenshots](image2.png)
+## Screenshots
+![image2](https://user-images.githubusercontent.com/74934154/138524460-6946eae5-8606-4e16-b16d-09a97f56001f.png)
+![image1](https://user-images.githubusercontent.com/74934154/138524483-77b0067c-7e45-4d55-9d32-2ef07244ffeb.png)
