@@ -12,7 +12,7 @@
 
 ## Technical Techniques
 - Cleaning, sorting, filtering
-- Summary statitics
+- Summary statistics, aggregating
 - Plotting and subplotting (bar, line, scatter, boxplot)
 
 ## Qualitative Techniques
