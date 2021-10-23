@@ -5,6 +5,8 @@
 1) pulls, cleans, and visualizes "drug regimen vs. mouse tumor growth" data, and
 2) discusses 3 insights from the resulting code
 
+This project builds on the skills from the `pandas-challenge` [here](https://github.com/cdenq/pandas-challenge).
+
 ## Built with
 - Python
     - Pandas
