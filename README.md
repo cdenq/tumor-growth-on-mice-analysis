@@ -1,7 +1,7 @@
 # matplotlib-challenge
 ## About Pymaceuticals
 
-`Pymaceuticals` is a Python data analytics home-project that:
+`Pymaceuticals` is a Python data analytics endeavor that:
 1) pulls, cleans, and visualizes "drug regimen vs. mouse tumor growth" data, and
 2) discusses 3 insights from the resulting code
 
