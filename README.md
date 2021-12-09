@@ -12,12 +12,12 @@ This project builds on the skills from the `pandas-challenge` [here](https://git
     - Pandas
     - Matplotlib
 
-## Technical Techniques
+## Technical Skills
 - Cleaning, sorting, filtering
 - Summary statistics, aggregating
 - Plotting and subplotting (bar, line, scatter, boxplot)
 
-## Qualitative Techniques
+## Qualitative Skills
 - Synthesizing results for tentative conclusions
 - Acknowledging potential pitfalls with results and techniques
 
