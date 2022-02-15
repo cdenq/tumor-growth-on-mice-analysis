@@ -1,11 +1,9 @@
-# matplotlib-challenge
+# tumor-growth-on-mice-analysis
 ## About Pymaceuticals
 
-`Pymaceuticals` is a Python data analytics endeavor that:
+`Pymaceuticals` is a Python data analytics challenge that:
 1) pulls, cleans, and visualizes "drug regimen vs. mouse tumor growth" data, and
 2) discusses 3 insights from the resulting code
-
-This project builds on the skills from the `pandas-challenge` [here](https://github.com/cdenq/pandas-challenge).
 
 ## Built with
 - Python
